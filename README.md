@@ -1,6 +1,8 @@
 # CaixaEletronico
 Mini Projeto de um Sistema de Caixa Eletrônico
 
+Projeto feito com intuito de praticar alguns conceitos básicos da programação.
+
 Pré-sistema:
 Inicialmente precisamos carregar as informações dos clientes como nº de conta, nome e saldo inicial. Carregar a informação de três clientes.
 
