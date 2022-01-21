@@ -12,6 +12,6 @@ O sistema deve carregar depois opções do que o usuário deseja fazer:
 Exibir saldo;
 Sacar;
 Depositar;
-Deslogar
+Deslogar;
 Encerrar sistema.
 
